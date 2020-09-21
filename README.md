@@ -11,8 +11,7 @@ Tecnologias
 <li>Javascript </li>
 <li>Node </li>
 <li>Express </li>
-<li>Yarn / NPM </li>
-<li>Insomnia / Postman </li>
+<li>Yarn  </li>
 </ul>
 
 <h3>Configuração </h3>
@@ -27,5 +26,4 @@ Yarn
 Para iniciar a aplicação :
 yarn start 
 </li>
-<li> Inicie o Insomnia/ Postman para realizar as solicitações para o endereço : http://localhost:3333/ </li>
 </ol>
